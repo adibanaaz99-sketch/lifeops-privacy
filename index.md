@@ -1,20 +1,26 @@
-# LifeOps: Productivity Tool — Privacy Policy
+# LifeOps: Productivity Tracker — Privacy Policy
 
 _Last updated: October 15, 2026_
 
 LifeOps is a personal productivity app for organizing tasks and categories.
 
-## What we collect
-The app stores the tasks, categories and notes you create so they can be saved and shown on your devices. We do not ask you to create an account, and we do not collect your name, email address, location, contacts, or any device identifiers.
+## Your data stays on your device
+Your tasks, categories, notes and the name you enter are stored **on your device**. We do not run a server that holds your tasks, we do not ask you to create an account, and we cannot see your data.
 
-## How it is used
-Your data is used only to provide the app's features. It is stored on a secure cloud database operated for this app. We do not sell your data, share it with advertisers, or use it for tracking or analytics.
+## Optional iCloud sync
+If you turn on iCloud sync, your data is copied to **your own private iCloud account** so it stays up to date across your Apple devices and is backed up. It is stored and protected by Apple under your Apple ID; we have no access to it. You can turn sync off at any time in Settings. If sync is off and your device is lost, reset or the app is deleted, your data cannot be recovered.
 
-## Third-party services
-The app's data is hosted on Render and MongoDB Atlas, which process data on our behalf solely to store and serve it.
+## Your name
+The app uses a name to greet you. You can type it or, if you choose, use "Sign in with Apple" to fill in your first name. The name stays on your device (and in your iCloud if sync is on). We do not receive it.
+
+## Anonymous usage statistics (optional)
+To understand how the app is used, it sends a small anonymous daily summary: a random install ID, app version, platform and OS version, and counts (app opens, tasks created, tasks completed, number of open tasks, whether iCloud sync is on). It never includes task titles or notes, your name, email, location or contacts, and it is not used for advertising or tracking across other apps. You can turn this off in Settings → "Share anonymous usage stats". These statistics are processed on Render and MongoDB Atlas on our behalf.
+
+## Other
+We do not sell your data or share it with advertisers. Calendar access, if you grant it, is only used to add your tasks to your calendar. Notifications are scheduled locally on your device.
 
 ## Data deletion
-You can delete your tasks and categories inside the app at any time. To request deletion of all stored data, contact us at the email below.
+Delete your tasks inside the app at any time. Deleting the app removes the data on your device; to remove iCloud copies, use iPhone Settings → [your name] → iCloud → Manage Storage. To delete the anonymous usage records tied to your install ID, contact us below.
 
 ## Children
 The app is not directed to children under 13 and does not knowingly collect their personal information.
