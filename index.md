@@ -1,6 +1,6 @@
 # LifeOps: Productivity Tracker — Privacy Policy
 
-_Last updated: October 15, 2026_
+_Last updated: November 10, 2026_
 
 LifeOps is a personal productivity app for organizing tasks and categories.
 
@@ -11,7 +11,7 @@ Your tasks, categories, notes and the name you enter are stored **on your device
 If you turn on iCloud sync, your data is copied to **your own private iCloud account** so it stays up to date across your Apple devices and is backed up. It is stored and protected by Apple under your Apple ID; we have no access to it. You can turn sync off at any time in Settings. If sync is off and your device is lost, reset or the app is deleted, your data cannot be recovered.
 
 ## Your name
-The app uses a name to greet you. You can type it or, if you choose, use "Sign in with Apple" to fill in your first name. The name stays on your device (and in your iCloud if sync is on). We do not receive it.
+You may type a name for your greeting, skip this step, or change the name in Settings. It is not an account or login. LifeOps does not offer registration, authentication or Sign in with Apple. The name stays on your device (and in your iCloud if sync is on). We do not receive it.
 
 ## Anonymous usage statistics (optional)
 To understand how the app is used, it sends a small anonymous daily summary: a random install ID, app version, platform and OS version, and counts (app opens, tasks created, tasks completed, number of open tasks, whether iCloud sync is on). It never includes task titles or notes, your name, email, location or contacts, and it is not used for advertising or tracking across other apps. You can turn this off in Settings → "Share anonymous usage stats". These statistics are processed on Render and MongoDB Atlas on our behalf.
